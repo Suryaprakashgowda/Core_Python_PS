@@ -1,0 +1,51 @@
+str1="RajaRamMohanRoy"
+print(str1[2:7])
+#
+str2="RajaRamMohanRoy"
+print(str2[1:8:2])
+#
+str3="RajaRamMohanRoy"
+print(str3[::2])
+#
+str4="RajaRamMohanRoy"
+print(str4[-2:-6]) #no o/p
+#
+str5="RajaRamMohanRoy"
+print(str1[-2:-7:-1])
+#
+str6="RajaRamMohanRoy"
+print(str6[-2:-12:-3])
+#
+str7="RajaRamMohanRoy"
+print(str7[-11:12])
+#
+str8="RajaRamMohanRoy"
+print(str8[-13:-2])
+#
+str9="RajaRamMohanRoy"
+print(str9[11:7:-1])
+#
+str10="RajaRamMohanRoy"
+print(str10[::])
+#
+str11="RajaRamMohanRoy"
+print(str11[::2])
+#
+str12="RajaRamMohanRoy"
+print(str12[::-4])
+#
+str13="RajaRamMohanRoy"
+print(str13[1:9:-2]) #no o/p
+#
+str14="RajaRamMohanRoy"
+print(str14[-2:16])
+#
+str15="RajaRamMohanRoy"
+print(str15[5:-2])
+#
+str16="RajaRamMohanRoy"
+print(str16[::-1]) #reversestring
+#
+str17="RajaRamMohanRoy"
+# print(str17[1:9:0]) #in this only we get error ,in other case we get o/p or no o/p because step will be default +1
+#
